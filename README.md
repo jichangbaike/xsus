@@ -8,7 +8,7 @@
 > 
 > 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。 
 > 
-> 最后更新：2026-05-17
+> 最后更新：2026-06-24
 
 
 > [!WARNING]
@@ -22,7 +22,7 @@
 ## XSUS官网入口
 
 - 👉 **XSUS 官网地址入口**：  
-  [https://finalto.xyz/b54uM7](https://finalto.xyz/b54uM7)
+  [进入 XSUS 官网](https://finalto.xyz/b54uM7)
 
 建议在桌面浏览器中完成账号注册与套餐购买，随后在用户中心获取订阅链接进行配置。
 
@@ -70,7 +70,7 @@ XSUS 提供周期付套餐与不限时流量包两种模式。
 
 **五一优惠活动**
 
-**活动时间**：即日起至 2026年5月5日
+**活动时间**：即日起至 2026年6月30日
 
 **活动内容**：输入优惠码 MAY2026 享 9折 优惠
 
@@ -79,9 +79,9 @@ XSUS 提供周期付套餐与不限时流量包两种模式。
 ---
 ## 测试图
 
-<img src="https://raw.githubusercontent.com/jichangbaike/xsus/refs/heads/main/images/xsus-test-20260517.png" alt="xsus机场测试图" width="900">
+<img src="https://raw.githubusercontent.com/jichangbaike/xsus/refs/heads/main/images/xsus-test-20260623.png" alt="xsus机场测试图" width="900">
 
-> 测试时间：2026-05-17，网络情况：电信 2Gbps
+> 测试时间：2026-06-23 晚高峰，网络情况：电信 2Gbps
 
 
 ---
@@ -126,7 +126,7 @@ A：建议尝试切换不同地区的节点，或检查是否触及了本地网�
 
 ## 官网注册入口
 
-- 👉 **XSUS 官网注册入口**：[点击前往](https://finalto.xyz/b54uM7)
+- 👉 **XSUS 官网注册入口**：[进入 XSUS 官网](https://finalto.xyz/b54uM7)
 
 > 使用过程中请严格遵守中国大陆及各节点所在地区的法律法规与服务条款。
 
@@ -142,5 +142,5 @@ A：建议尝试切换不同地区的节点，或检查是否触及了本地网�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-05-17`
-- **Version:** `v1.2`
+- **Last Updated:** `2026-06-24`
+- **Version:** `v1.3`
