@@ -8,7 +8,7 @@
 > 
 > 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。 
 > 
-> 最后更新：2026-06-24
+> 最后更新：2026-08-06
 
 
 > [!WARNING]
@@ -79,9 +79,9 @@ XSUS 提供周期付套餐与不限时流量包两种模式。
 ---
 ## 测试图
 
-<img src="https://raw.githubusercontent.com/jichangbaike/xsus/refs/heads/main/images/xsus-test-20260623.png" alt="xsus机场测试图" width="900">
+<img src="https://raw.githubusercontent.com/jichangbaike/xsus/refs/heads/main/images/xsus-test-20260806.png" alt="xsus机场测试图" width="900">
 
-> 测试时间：2026-06-23 晚高峰，网络情况：电信 2Gbps
+> 测试时间：2026-08-06 晚高峰，网络情况：电信 2Gbps
 
 
 ---
@@ -142,5 +142,5 @@ A：建议尝试切换不同地区的节点，或检查是否触及了本地网�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-06-24`
-- **Version:** `v1.3`
+- **Last Updated:** `2026-08-06`
+- **Version:** `v1.4`
